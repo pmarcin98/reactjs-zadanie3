@@ -1,0 +1,46 @@
+.CryptoList {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.CryptoList {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    font-weight: bold;
+}
+
+.CryptoList .List {
+    padding-left: 0;
+    margin: 0;
+}
+
+.CryptoList .List li {
+    padding: 5px 20px;
+    border: 1px solid #ccc;
+    list-style: none;
+    margin-top: 1px;
+    line-height: 2;
+}
+
+.CryptoList .List li span {
+    padding: 0 5px;
+}
+
+.CryptoList .List li .CryptoRate {
+    font-weight: normal;
+}
+
+.red {
+    color: red;
+}
+
+.green {
+    color: green;
+}
+
+.blue {
+    color: blue;
+}
